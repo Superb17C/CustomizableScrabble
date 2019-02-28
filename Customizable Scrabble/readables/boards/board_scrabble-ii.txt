@@ -1,0 +1,13 @@
+21 x 21
+
+X	X	X	O	O	O	O	O	O	O	O
+X	X	X	O	O	O	O	O	O	O	O
+X	X	X	O	O	O	O	O	O	O	O
+O	O	O	3W	-	-	2L	-	-	-	3W
+O	O	O	-	2W	-	-	-	3L	-	-
+O	O	O	-	-	2W	-	-	-	2L	-
+O	O	O	2L	-	-	2W	-	-	-	2L
+O	O	O	-	-	-	-	2W	-	-	-
+O	O	O	-	3L	-	-	-	3L	-	-
+O	O	O	-	-	2L	-	-	-	2L	-
+O	O	O	3W	-	-	2L	-	-	-	2W*
